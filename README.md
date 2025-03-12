@@ -99,7 +99,7 @@ ret
 ## Output  
 ![sub](https://github.com/user-attachments/assets/75f3974e-9a10-4f3f-a030-b4305d2ec965)
 
-## Multiplication alp 
+## Multiplication ALP
 ```
 MOV AL, [4400H]
 MOV BL, [4401H]
@@ -112,7 +112,7 @@ ret
  ## Output  
 
 
-## Division alp 
+## Division ALP 
 ```
 MOV AL, [4300H]
 MOV BL, [4301H]
