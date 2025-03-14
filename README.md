@@ -86,6 +86,8 @@ ADD AL, BL
 ```
 
 ## Output  
+![PMC addition output](https://github.com/user-attachments/assets/fbad16f4-cf65-43d7-895e-3bbbbe166883)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -110,6 +112,7 @@ ret
 
 ```
  ## Output  
+![Uploading PMC multiply output.png…]()
 
 
 ## Division ALP 
@@ -144,6 +147,7 @@ ret
 ```
 ## Output
 ![log](https://github.com/user-attachments/assets/e15f8e4d-063c-4382-8396-d492046c3e6a)
+
 
 ## Result :
  The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
